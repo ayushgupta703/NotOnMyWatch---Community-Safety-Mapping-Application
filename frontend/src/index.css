@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+  background: linear-gradient(120deg, #f4f6fb 60%, #e9ecef 100%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Fira Mono', 'Menlo', 'Monaco', 'Consolas', 'Courier New', monospace;
+  background: #f4f6fb;
+  color: #ef233c;
+  padding: 0.2em 0.5em;
+  border-radius: 6px;
+  font-size: 1em;
+}
